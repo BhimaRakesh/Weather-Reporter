@@ -13,8 +13,8 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+.card {
+  background-color: #18c6d9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
